@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello Visitor :wave:
 
-<!--
-**vksriharsha/vksriharsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MS Computer Science student at Iowa State University. I also work as a Research Assistant in Dr.Wurtele's lab at ISU, where I contribute in the development of Software tools, scripts and techniques for Computational Biology research.
 
-Here are some ideas to get you started:
+My interests lie in the fields of Algorithm design for large datasets, Deep Learning, Reinforcement Learning and Artificial Intelligence. I am passionate about open-source software development in these fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am proficient in Java, Python and C. For the development of Machine Learning models, I have used Tensorflow Keras, Scikit Learn, Pandas and Numpy libraries in Python. In Java, I have worked on J2EE web development, Swing and AWT desktop application development and general purpose application development.
+
+Prior to joining ISU, I had worked at Hewlett Packard Enterprise for 2.5 years and then Infosys Ltd for another 2.5 years in different software development positions. Working at those companies helped me gain much required skills in the areas of Software Development, CI/CD, DevOps, Agile development, Optimization and Business Communication.
+
+I am always open to work for technology-driven companies and open-source projects. You can contact me on Github or on any of the below sites:
+
+#### :memo:Linkedin -  https://www.linkedin.com/in/sriharshavk/
+#### :memo:Twitter  -  https://twitter.com/KVajjhala
+#### :memo:Medium   -  https://medium.com/@vk.sriharsha
+
+#### Au Revoir!!
