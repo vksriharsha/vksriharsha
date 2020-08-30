@@ -13,5 +13,3 @@ I am always open to work for technology-driven companies and interesting open-so
 #### :memo:Linkedin -  https://www.linkedin.com/in/sriharshavk/
 #### :memo:Twitter  -  https://twitter.com/KVajjhala
 #### :memo:Medium   -  https://medium.com/@vk.sriharsha
-
-#### Au Revoir!!
