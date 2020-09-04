@@ -6,7 +6,7 @@ My interests lie in the fields of Algorithm design for large datasets, Deep Lear
 
 I am proficient in Java, Python and C. In Python, I have used Tensorflow Keras, Scikit Learn, Pandas and Numpy libraries to develop Machine Learning models. In Java, I have worked on J2EE web development, Swing and AWT desktop application development and general purpose application development.
 
-Prior to joining ISU, I had worked at Hewlett Packard Enterprise for 2.5 years and then Infosys Ltd for another 2.5 years in different Software Development positions. Working for those companies helped me gain much required skills in the areas of Software Development, CI/CD, DevOps, Agile development, Optimization and Business Communication.
+Prior to joining ISU, I had worked at Hewlett Packard Enterprise for 2.5 years and then Infosys Ltd for another 2.5 years in different Software Development positions. Working at those companies helped me gain much required skills in the areas of Software Development, CI/CD, DevOps, Agile development, Optimization and Business Communication.
 
 I am always open to work for technology-driven companies and interesting open-source projects. You can contact me on Github or on any of the below sites:
 
