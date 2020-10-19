@@ -1,6 +1,6 @@
 ### Hello Visitor :wave:
 
-I am an MS Computer Science student at Iowa State University. I also work as a Research Assistant in Dr.Wurtele's lab at ISU, where I contribute towards the development of Software tools, scripts and techniques for Computational Biology research.
+I am an MS Computer Science student at Iowa State University. I also work in Dr.Wurtele's lab at ISU, where I contribute towards the development of Software tools, scripts and techniques for Computational Biology research.
 
 My interests lie in the fields of Algorithm design for large datasets, Deep Learning, Reinforcement Learning and Artificial Intelligence. I am passionate about open-source software development in these fields.
 
