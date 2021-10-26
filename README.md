@@ -1,12 +1,12 @@
 ### Hello Visitor :wave:
 
-I am an MS Computer Science student at Iowa State University. I also work in Dr.Wurtele's lab at ISU, where I contribute towards the development of Software tools, scripts and techniques for Computational Biology research.
+I am an MS Computer Science student at Iowa State University, interested to work in the fields of Data Science and Machine Learning Engineering. Recently, I worked at Ancestry Inc as a Data Science Engineering Intern, where I worked on productionalizing ML models, and optimizing the feature engineering process.
 
-My interests lie in the fields of Algorithm design for large datasets, Deep Learning, Reinforcement Learning and Artificial Intelligence. I am passionate about open-source software development in these fields.
+I am proficient in Java, Python and C. In Python, I have used Tensorflow, Keras, scikit-learn, Pandas and Numpy libraries to build Machine Learning models, perform statistical analysis on genetic data and deploy models to production. In Java, I have worked on J2EE web development, Swing and AWT desktop application development.
 
-I am proficient in Java, Python and C. In Python, I have used Tensorflow Keras, Scikit Learn, Pandas and Numpy libraries to develop Machine Learning models. In Java, I have worked on J2EE web development, Swing and AWT desktop application development and general purpose application development.
+Prior to joining ISU, I worked at Hewlett Packard Enterprise as a Software Engineer for 2.5 years and later at Infosys Ltd as a Data Engineer for another 2.5 years. Working at these companies was a great experience for me to learn about real world data warehouse systems, data processing, web development and agile methodology.
 
-Prior to joining ISU, I had worked at Hewlett Packard Enterprise for 2.5 years and then Infosys Ltd for another 2.5 years in different Software Development positions. Working at those companies helped me gain much required skills in the areas of Software Development, CI/CD, DevOps, Agile development, Optimization and Business Communication.
+I consider myself to be a motivated, positive and hard working individual who wants to work on world changing innovative projects.
 
 I am always open to work for technology-driven companies and interesting open-source projects. You can contact me on Github or on any of the below sites:
 
